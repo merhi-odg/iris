@@ -4,10 +4,7 @@
    "fields": [
       {
          "name": "SepalLengthCm",
-         "type": [
-            "double",
-            "int"
-         ],
+         "type": "double",
          "dataClass": "numerical",
          "role": "predictor",
          "protectedClass": false,
@@ -17,10 +14,7 @@
       },
       {
          "name": "SepalWidthCm",
-         "type": [
-            "double",
-            "int"
-         ],
+         "type": "double",
          "dataClass": "numerical",
          "role": "predictor",
          "protectedClass": false,
@@ -40,10 +34,7 @@
       },
       {
          "name": "PetalWidthCm",
-         "type": [
-            "double",
-            "int"
-         ],
+         "type": "double",
          "dataClass": "numerical",
          "role": "predictor",
          "protectedClass": false,
